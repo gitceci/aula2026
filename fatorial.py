@@ -5,3 +5,5 @@ while n>0:
     fatorial*=n
     n-=1
 print(f"O resultad do Fatorial é {fatorial}")
+
+#OK
