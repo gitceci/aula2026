@@ -1,2 +1,2 @@
-Vamos que vamos para mais uma aula de github.
+Vamos que vamos para mais um bimestre.
  RICSON VAI DA 10 PARA TODO MUNDO NA PROVA!!!!!!!!!!!!!!
