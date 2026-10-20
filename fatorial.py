@@ -7,3 +7,4 @@ while n>0:
 print(f"O resultad do Fatorial é {fatorial}")
 
 print("555")
+print("OK)
